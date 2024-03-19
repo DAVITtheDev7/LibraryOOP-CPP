@@ -2,7 +2,6 @@
 
 This repository contains a library management system implemented in C++. The program allows users to manage library books efficiently by providing functionalities such as borrowing, returning, and checking the availability of books. It showcases object-oriented programming principles through the use of classes and methods.
 
-```markdown
 # Library Management System in C++
 
 This repository contains a library management system implemented in C++. The program allows users to manage library books efficiently by providing functionalities such as borrowing, returning, and checking the availability of books. It showcases object-oriented programming principles through the use of classes and methods.
@@ -62,6 +61,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy and paste this README.md content into your repository's README.md file. Make sure to adjust any details such as the repository URL and license information according to your project.
