@@ -1,7 +1,3 @@
-# Title: Library Management System in C++
-
-This repository contains a library management system implemented in C++. The program allows users to manage library books efficiently by providing functionalities such as borrowing, returning, and checking the availability of books. It showcases object-oriented programming principles through the use of classes and methods.
-
 # Library Management System in C++
 
 This repository contains a library management system implemented in C++. The program allows users to manage library books efficiently by providing functionalities such as borrowing, returning, and checking the availability of books. It showcases object-oriented programming principles through the use of classes and methods.
